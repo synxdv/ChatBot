@@ -12,3 +12,4 @@ C:\Users\Administrator\source\repos\ChatBot\ChatBot\obj\Debug\net8.0\refint\Chat
 C:\Users\Administrator\source\repos\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.pdb
 C:\Users\Administrator\source\repos\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\ChatBot\ChatBot\obj\Debug\net8.0\ref\ChatBot.dll
+C:\Users\Administrator\source\repos\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.sourcelink.json

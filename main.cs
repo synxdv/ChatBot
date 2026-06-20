@@ -6,7 +6,7 @@ public class Inicio
     public static bool chateando = true;
     public static void Main()
     {
-        Console.WriteLine("ChatBot: Bienvenid@ soy un chatBot creado por Synx.....");
+        Console.WriteLine("ChatBot: Bienvenid@ soy un chatBot creado por Synx..... Acaba todas las preguntas con ?");
         while (chateando)
         {
             
