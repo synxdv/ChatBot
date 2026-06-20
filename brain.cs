@@ -1,13 +1,20 @@
 ﻿using System.Collections.Generic;
-
+using System.Timers;
+using System.IO;
 public class Brain
 {
+
+   static int minutos = DateTime.Now.Minute;
+   static int hora = DateTime.Now.Hour;
+ 
 
     static Dictionary<string, string> respuestas = new Dictionary<string, string>() {
         {"hola", "ChatBot: Holaaa. En que puedo ayudarte?" },
         {"como estas?", "ChatBot: Estoy listo para ayudarte!!" },
         {"ultimo campeon del mundo", "ChatBot: Argentina!! " },
-        {"barcelona o real madrid?", "ChatBot: Barcelona, obvio" }
+        {"barcelona o real madrid?", "ChatBot: Barcelona, obvio" },
+        {"consejo", "ChatBot: 1. Todas las preguntas que quieras hacer acabalas con ?\n2.Escribe Trivia para jugar trivia"  },
+        {"hora", $"ChatBot: la hora es {hora}:{minutos}" }
 
     }; 
     
