@@ -14,7 +14,13 @@ public class Brain
         {"ultimo campeon del mundo", "ChatBot: Argentina!! " },
         {"barcelona o real madrid?", "ChatBot: Barcelona, obvio" },
         {"consejo", "ChatBot: 1. Todas las preguntas que quieras hacer acabalas con ?\n2.Escribe Trivia para jugar trivia"  },
-        {"hora", $"ChatBot: la hora es {hora}:{minutos}" }
+        {"hora", $"ChatBot: la hora es {hora}:{minutos}" },
+        {"futbol", "ChatBot: El deporte rey" },
+        {"amigo", "ChatBot: Para servirte rey" },
+        {"wikipedia", "ChatBot: Aca te dejo el link de wikipedia!! https://wikipedia.org/" },
+        {"lvp", "ChatBot: Obra maestra" },
+        {"synx", "ChatBot: Mi creador, el mejor de todos" }
+
 
     }; 
     
